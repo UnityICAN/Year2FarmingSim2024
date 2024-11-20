@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GraineBle
   m_EditorClassIdentifier: 
   inventorySprite: {fileID: 0}
-  displayName: 
-  shopPrice: 0
-  growthDuration: 0
-  associatedPlant: {fileID: 0}
+  displayName: "Graine de bl\xE9"
+  shopPrice: 5
+  growthDuration: 10
+  associatedPlant: {fileID: 11400000, guid: 4c3d2391623773449ae61200110202bb, type: 2}

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: PlantBle
   m_EditorClassIdentifier: 
   inventorySprite: {fileID: 0}
-  displayName: 
-  shopPrice: 0
-  salePrice: 0
+  displayName: "Bl\xE9"
+  shopPrice: 5
+  salePrice: 3
